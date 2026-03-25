@@ -21,6 +21,7 @@
 <!-- Replace or add/remove any badges below to match your actual stack -->
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,7 +50,7 @@
 
 <!-- Update these with your real projects -->
 
-- 🛠️ **[WeldersKit](https://github.com/Ayotheg/welderskit)** — WeldersKit is a mobile-first responsive progressive web app built for Nigerian welders ith support for multilanguages
+- 🛠️ **[WeldersKit](https://github.com/Ayotheg/welderskit)** — WeldersKit is a mobile-first responsive progressive web app built for Nigerian welders it has support for multi-languages
 - ✨ **[Another Project](https://ayotheg.github.io/Finder-AI/)** —  A cool side project I built
 
 ---
