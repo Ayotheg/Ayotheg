@@ -1,8 +1,3 @@
-<!-- Profile Views Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Ayotheg&label=Profile%20views&color=f97316&style=flat" alt="Ayotheg" />
-</p>
-
 <!-- Header -->
 <h1 align="center">
   Hey there, I'm Ayoola Omoniyi 👋
