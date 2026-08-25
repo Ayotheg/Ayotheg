@@ -49,7 +49,7 @@
 
 <!-- Update these with your real projects -->
 
-- 🛠️ **[WeldersKit](https://github.com/Ayotheg/welderskit)** — WeldersKit is a mobile-first responsive progressive web app built for Nigerian welders it has support for multi-languages
+- 🛠️ **[WeldersKit](https://mapsbyfuta.xyz)** — WeldersKit is a mobile-first responsive progressive web app built for Nigerian welders it has support for multi-languages
 - ✨ **[Another Project](https://ayotheg.github.io/Finder-AI/)** —  A cool side project I built
 
 ---
