@@ -49,7 +49,7 @@
 
 <!-- Update these with your real projects -->
 
-- 🛠️ **[WeldersKit](https://mapsbyfuta.xyz)** — MapsByFUTA is a campus navigation web app built for FUTA students
+- 🛠️ **[MapsBYFUTA](https://mapsbyfuta.xyz)** — MapsByFUTA is a campus navigation web app built for FUTA students
 - ✨ **[Another Project](https://ayotheg.github.io/Finder-AI/)** —  A cool side project I built
 
 ---
